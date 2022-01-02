@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qqinying
 - 👀 I’m interested in Python and Geosciences
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on CCS
+- 💞️ I’m looking to collaborate on digitalization in CCS
 - 📫 How to reach me ...
 
 <!---
